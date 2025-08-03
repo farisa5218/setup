@@ -1,0 +1,5 @@
+https://docs.google.com/document/d/18eGNn5j7SpEy0CHFwZt6MuhLv_EkzCdl/edit
+
+
+
+//akhane ai code gula acce

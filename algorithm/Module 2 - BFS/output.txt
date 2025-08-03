@@ -1,0 +1,6 @@
+Parent of 1 is 0
+Parent of 2 is 1
+Parent of 3 is 1
+Parent of 4 is 2
+Parent of 5 is 2
+0 1 2 5 

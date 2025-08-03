@@ -1,0 +1,6 @@
+food 4
+he 1
+i 1
+love 4
+she 1
+tey 1
