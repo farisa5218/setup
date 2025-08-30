@@ -1,0 +1,10 @@
+Before path relax
+0 -5 I 
+I 0 3 
+-1 I 0 
+
+After path relax
+-3 -8 -5 
+2 -3 0 
+-4 -9 -6 
+cycle detected and NO Answer
